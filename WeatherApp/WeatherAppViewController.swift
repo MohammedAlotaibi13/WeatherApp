@@ -7,9 +7,13 @@
 //
 
 import UIKit
+// MARK: - WeatherAppViewController
+class WeatherAppViewController: UIViewController {
+    
+    // MARK: Outlets :
 
-class ViewController: UIViewController {
-
+    
+    // MARK: Life Cycle :
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
